@@ -1,0 +1,38 @@
+Day,Date,Subject,Topic & Curriculum Alignment,Actionable Tasks,LeetCode Problems,Status
+Day 1,2026-10-05,C++ DSA,Unit 1: Introduction, Need, Classifications, Real-life Applications,Review theory, write basic C++ template code, and commit to GitHub,N/A (Theory Setup),Pending
+Day 2,2026-10-06,Java OOPs,Module 1: Procedural vs OOP, JVM Architecture, JDK, PATH/CLASSPATH,Set up IDE, write basic "Hello World" Java program (Lab Prog 1),N/A (Java Setup),Pending
+Day 3,2026-10-07,C++ DSA,Unit 1: Array concepts, declaration, memory representation & operations,Practice array memory allocation & traversal scripts in C++,LC 1: Two Sum; LC 283: Move Zeroes,Pending
+Day 4,2026-10-08,Java OOPs,Module 2: Variables, Primitive/Reference Types, Type Casting, Operators,Practice arithmetic/relational operator programs (Lab Prog 2),N/A (Java Basics),Pending
+Day 5,2026-10-09,C++ DSA,Unit 1: Structures, Unions, Self-referential structures,Practice struct-based programs in C++, push to GitHub,LC 189: Rotate Array,Pending
+Day 6,2026-10-10,Java OOPs,Module 2: Control Statements (if-else, switch, loops),Solve Java Lab Prog 3 & 4 (Even/Odd, Quadratic, Fibonacci loops),N/A (Java Control Flow),Pending
+Day 7,2026-10-11,C++ DSA,Unit 1: Pointers, malloc/calloc/realloc/free vs C++ new/delete,Write pointer manipulation and dynamic array scripts in C++,LC 26: Remove Duplicates from Sorted Array,Pending
+Day 8,2026-10-12,Java OOPs,Module 3: Arrays & Strings (1D, 2D Arrays, StringBuffer, StringBuilder),Java Lab Prog 6 & 8 (Matrix operations, string manipulation),N/A (Java Arrays/Strings),Pending
+Day 9,2026-10-13,C++ DSA,Unit 1: Time & Space Complexity, Asymptotic Analysis (Big-O, Omega, Theta),Analyze complexity for basic sorting/searching loops,LC 53: Maximum Subarray,Pending
+Day 10,2026-10-14,Java OOPs,Module 3: String comparison, Palindrome check,Java Lab Prog 9 (Palindrome check using StringBuilder),LC 125: Valid Palindrome,Pending
+Day 11,2026-10-15,C++ DSA,Unit 2: Stack Definition, ADT, Array Implementation,Lab 1: Implement Stack using arrays (push, pop, peek, traverse),LC 20: Valid Parentheses,Pending
+Day 12,2026-10-16,Java OOPs,Module 4: Classes, Objects, Constructors, Access Specifiers,Java Lab Prog 10 & 11 (Constructors & Encapsulation),N/A (Java OOP),Pending
+Day 13,2026-10-17,C++ DSA,Unit 2: Dynamic Stack & Applications (Infix to Postfix, Evaluation),Lab 2 & 3: Infix to Postfix conversion and Postfix evaluation,LC 150: Evaluate Reverse Polish Notation,Pending
+Day 14,2026-10-18,Java OOPs,Module 4: Inheritance & super Keyword (Single, Multilevel, Hierarchical),Java Lab Prog 12 & 13 (Inheritance variants, super/this),N/A (Java OOP),Pending
+Day 15,2026-10-19,C++ DSA,Unit 2: Recursion Basics & Tower of Hanoi,Lab 4: Implement recursive solutions for Factorial, Fibonacci, Tower of Hanoi,LC 509: Fibonacci Number,Pending
+Day 16,2026-10-20,Java OOPs,Module 4: Polymorphism (Method Overloading & Overriding),Java Lab Prog 14 (Compile-time & Run-time polymorphism),N/A (Java OOP),Pending
+Day 17,2026-10-21,C++ DSA,Unit 2: Queue Introduction, ADT, Array & Circular Implementation,Lab 5: Queue operations (enqueue, dequeue, circular queue),LC 225: Implement Stack using Queues,Pending
+Day 18,2026-10-22,Java OOPs,Module 4: Abstraction, Abstract Classes, Interfaces (Multiple Inheritance),Java Lab Prog 15 (Abstract classes and interfaces implementation),N/A (Java OOP),Pending
+Day 19,2026-10-23,C++ DSA,Unit 3: Singly Linked List (Create, Insert, Delete, Search, Reverse),Lab 6: Implement Singly Linked List operations from scratch,LC 206: Reverse Linked List,Pending
+Day 20,2026-10-24,Java OOPs,Module 5: Exception Handling (try-catch, multiple catch, finally, throws),Java Lab Prog 16 & 17 (Exception handling blocks),N/A (Java Exceptions),Pending
+Day 21,2026-10-25,C++ DSA,Unit 3: Doubly & Circular Linked Lists,Lab 7 & 8: Implement Doubly and Circular Linked Lists,LC 141: Linked List Cycle,Pending
+Day 22,2026-10-26,Java OOPs,Module 5: Custom Exceptions & Best Practices,Write custom exception classes and test edge cases in Java,N/A (Java Exceptions),Pending
+Day 23,2026-10-27,C++ DSA,Unit 3: Stack & Queue using Linked List,Implement dynamic stacks/queues using pointer links,LC 21: Merge Two Sorted Lists,Pending
+Day 24,2026-10-28,Java OOPs,Module 6: Collections Framework - List Interface (ArrayList, LinkedList),Java Lab Prog 18 (Implement List interface using ArrayList/LinkedList),N/A (Java Collections),Pending
+Day 25,2026-10-29,C++ DSA,Unit 4: Searching Techniques (Linear, Binary, Interpolation Search),Lab 9: Implement and compare searching algorithms,LC 704: Binary Search,Pending
+Day 26,2026-10-30,Java OOPs,Module 6: Collections Framework - Set & Queue Interfaces (HashSet, TreeSet, PriorityQueue),Java Lab Prog 19 & 20 (Implement Set and Queue interfaces),N/A (Java Collections),Pending
+Day 27,2026-10-31,C++ DSA,Unit 4: Elementary Sorting (Bubble, Selection, Insertion Sort),Lab 10 (Part 1): Implement Bubble, Selection, and Insertion Sort,LC 75: Sort Colors,Pending
+Day 28,2026-11-01,Java OOPs,Module 6: Collections Framework - Map Interface (HashMap, TreeMap, Iterators),Java Lab Prog 21 (Implement Map interface),N/A (Java Collections),Pending
+Day 29,2026-11-02,C++ DSA,Unit 4: Advanced Sorting (Quick Sort & Merge Sort),Lab 10 (Part 2): Implement divide-and-conquer sorting algorithms,LC 912: Sort an Array,Pending
+Day 30,2026-11-03,Java OOPs,Module 7: Multithreading (Thread class, Runnable interface, Life Cycle),Java Lab Prog 22 (Demonstrate multithreading),N/A (Java Multithreading),Pending
+Day 31,2026-11-04,C++ DSA,Unit 5: Introduction to Trees, Binary Tree Representation,Implement binary tree node structures and basic creation,LC 144: Binary Tree Preorder Traversal,Pending
+Day 32,2026-11-05,Java OOPs,Module 7: Synchronization, File Handling, Stream API, Lambdas,Write file I/O operations and Lambda expression scripts in Java,N/A (Java Advanced),Pending
+Day 33,2026-11-06,C++ DSA,Unit 5: Tree Traversals (Preorder, Inorder, Postorder) & BST,Lab 11 & 12: BST insertion, deletion, searching, and traversals,LC 94: Binary Tree Inorder Traversal; LC 98: Validate BST,Pending
+Day 34,2026-11-07,C++ DSA,Unit 6: Balanced Trees (AVL Trees & Rotations),Implement AVL tree balancing and height calculation,LC 110: Balanced Binary Tree,Pending
+Day 35,2026-11-08,C++ DSA,Unit 7: Hashing Concepts, Hash Tables, Collision Handling,Implement hash table with chaining or probing,LC 1: Two Sum (Hash Map approach),Pending
+Day 36,2026-11-09,C++ DSA,Unit 8: Graph Fundamentals & Representations (Adjacency Matrix & List),Lab 13 (Part 1): Implement Graph representation,LC 1971: Find if Path Exists in Graph,Pending
+Day 37,2026-11-10,C++ DSA,Unit 8: Graph Traversals (Breadth First Search & Depth First Search),Lab 13 (Part 2): Implement BFS and DFS graph traversals,LC 200: Number of Islands,Pendings
